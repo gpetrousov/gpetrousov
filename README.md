@@ -12,5 +12,5 @@
 
 Here's a wordcloud about me.
 
-![wordcloud](wordcloud.jpg)
+![wordcloud](https://github.com/gpetrousov/gpetrousov/blob/master/wordcloud.jpg)
 

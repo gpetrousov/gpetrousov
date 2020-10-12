@@ -9,8 +9,3 @@
         </p>
     </body>
 </html>
-
-Here's a wordcloud about me.
-
-![wordcloud](https://github.com/gpetrousov/gpetrousov/blob/master/wordcloud.jpg)
-
